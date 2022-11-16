@@ -1,4 +1,4 @@
-## Exercícios em Java
+### Exercícios em Java
 
 Status do projeto
 <p align="center">💻 Em andamento...</p>
